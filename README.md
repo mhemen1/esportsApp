@@ -42,6 +42,10 @@ C++ Desktop Application built in C++ builder.
   - Edit the binary file
     
   - MySQL Database
+  
+  - SOAP (list of countries)
+  - and more
+
 
 
 
