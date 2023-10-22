@@ -5,7 +5,7 @@ C++ Desktop Application built in C++ builder.
 <hr>
 
 
-<b>Function:</b>
+<b>Functions:</b>
   - Registration / Login
 
   <img align="center" alt="LR" width="380px" src="https://github.com/mhemen1/esportsApp/blob/main/Img/RegisterF.jpg" />
